@@ -1,7 +1,3 @@
-## Hi there 👋
-
-🌱 I’m currently learning **WEB Development FrontEnd**
-
 
 
 <br>
